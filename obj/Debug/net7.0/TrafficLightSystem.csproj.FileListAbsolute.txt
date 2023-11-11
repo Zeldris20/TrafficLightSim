@@ -1,0 +1,14 @@
+C:\Users\ZeldrisOW\Documents\TrafficSimulator\bin\Debug\net7.0\TrafficLightSystem.exe
+C:\Users\ZeldrisOW\Documents\TrafficSimulator\bin\Debug\net7.0\TrafficLightSystem.deps.json
+C:\Users\ZeldrisOW\Documents\TrafficSimulator\bin\Debug\net7.0\TrafficLightSystem.runtimeconfig.json
+C:\Users\ZeldrisOW\Documents\TrafficSimulator\bin\Debug\net7.0\TrafficLightSystem.dll
+C:\Users\ZeldrisOW\Documents\TrafficSimulator\bin\Debug\net7.0\TrafficLightSystem.pdb
+C:\Users\ZeldrisOW\Documents\TrafficSimulator\obj\Debug\net7.0\TrafficLightSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZeldrisOW\Documents\TrafficSimulator\obj\Debug\net7.0\TrafficLightSystem.AssemblyInfoInputs.cache
+C:\Users\ZeldrisOW\Documents\TrafficSimulator\obj\Debug\net7.0\TrafficLightSystem.AssemblyInfo.cs
+C:\Users\ZeldrisOW\Documents\TrafficSimulator\obj\Debug\net7.0\TrafficLightSystem.csproj.CoreCompileInputs.cache
+C:\Users\ZeldrisOW\Documents\TrafficSimulator\obj\Debug\net7.0\TrafficLightSystem.dll
+C:\Users\ZeldrisOW\Documents\TrafficSimulator\obj\Debug\net7.0\refint\TrafficLightSystem.dll
+C:\Users\ZeldrisOW\Documents\TrafficSimulator\obj\Debug\net7.0\TrafficLightSystem.pdb
+C:\Users\ZeldrisOW\Documents\TrafficSimulator\obj\Debug\net7.0\TrafficLightSystem.genruntimeconfig.cache
+C:\Users\ZeldrisOW\Documents\TrafficSimulator\obj\Debug\net7.0\ref\TrafficLightSystem.dll
